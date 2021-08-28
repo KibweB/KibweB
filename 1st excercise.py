@@ -1,1 +1,0 @@
-print("Pull up to the Location")
