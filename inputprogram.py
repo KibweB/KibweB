@@ -1,4 +1,4 @@
-firstname=input("Enter your first name: ")
-lastname=input("Enter your last name: ")
-
-print("Your full name is ",firstname,lastname)
+name=input("Enter your whole name: ")
+age=input("And how old are you? ")
+print("Your full name is",name)
+print("How's it hanging "+name+"! You're "+age+" years old, cool story!")
