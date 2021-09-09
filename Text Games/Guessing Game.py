@@ -11,6 +11,6 @@ while guess != secret_Word and not(out_of_Guesses):
     else:
         out_of_Guesses=True
 if out_of_Guesses:
-    print("You ran out of guesses, sorry")
+    print("\nYou ran out of guesses, sorry")
 else:     
-    print("You guessed the secret word, Kudos")
+    print("\nYou guessed the secret word, Kudos")

@@ -4,7 +4,6 @@ for index in range(len(friends)):
 
 for index in range(3): 
     if index==0:
-        print("")
-        print("First Iterartion")
+        print("\nFirst Iterartion")
     else:
         print("Not 1st")
