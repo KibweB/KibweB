@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KibweB
 - 👀 I’m interested in game design
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently expanding my Meta Quest expertise
 - 💞️ I’m looking to collaborate on a mobile, group game project
 - 📫 How to reach me ...
 
